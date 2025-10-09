@@ -1,9 +1,4 @@
-# ai_turbulence
-This is dedicated repository to study conservation laws in turbulence using AI
-
-
-## Quick Start for ai_pincare 
-This section is copyed from [https://github.com/KindXiaoming/aipoincare](https://github.com/KindXiaoming/aipoincare)
+## Quick Start
 
 The 'aipoincare' package is available on PyPI and can be installed with `pip install aipoincare`
 
