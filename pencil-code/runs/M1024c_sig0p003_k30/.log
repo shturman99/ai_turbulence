@@ -1,0 +1,8 @@
+-rw-r--r-- 1 brandenb brandenb 784 jun  7 22:19 parameters.pro
+-rwxr-xr-x 1 brandenb brandenb 210 jun  7 22:19 print.in
+-rwxr-xr-x 1 brandenb brandenb 525 jun  7 22:19 run.in
+-rwxr-xr-x 1 brandenb brandenb 330 jun  7 22:19 src/cparam.local
+-rwxr-xr-x 1 brandenb brandenb 429 jun  7 22:19 src/Makefile.local
+-rw-r--r-- 1 brandenb brandenb 232 jun  7 22:19 src/revision.txt
+-rwxr-xr-x 1 brandenb brandenb 441 jun  7 22:19 start.in
+-rwxr-xr-x 1 brandenb brandenb   5 jun  7 22:19 video.in

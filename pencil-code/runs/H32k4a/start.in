@@ -1,0 +1,18 @@
+!                              -*-f90-*-     (for emacs)
+!
+! Initialisation parameters for forced MHD turbulence with shear
+!
+&init_pars
+  cvsid="467592b22"
+/
+&eos_init_pars
+  gamma=1.
+/
+&hydro_init_pars
+/
+&density_init_pars
+/
+&magnetic_init_pars
+  initaa='power_randomphase_hel', amplaa=2e-3, initpower_aa=2., kpeak_aa=6.
+  relhel_aa=1., cutoff_aa=500., ncutoff_aa=1., lskip_projection_aa=T
+/
