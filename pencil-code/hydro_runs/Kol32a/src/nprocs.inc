@@ -1,8 +1,0 @@
-nprocx:=1
-nprocy:=4
-
-
-nprocz= $(ncpus)/($(nprocx)*$(nprocy))
-nprocx := $(shell echo $$(($(nprocx))))
-nprocy := $(shell echo $$(($(nprocy))))
-nprocz := $(shell echo $$(($(nprocz))))

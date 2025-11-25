@@ -1,8 +1,0 @@
- ; This file contain pc constants of interest to IDL
- impossible=  3.908500000000000E+037
-k_B=    1.6605388599999989D-24
-m_H=    1.6735325181880000D-24
- lnrho0=  0.000000000000000E+000
- lnTTO=  0.000000000000000E+000
- cs20=   1.00000000000000     
- cp=   1.00000000000000     
