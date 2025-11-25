@@ -1,0 +1,11 @@
+-rw-r--r-- 1 brandenb users 896 Jun 25 16:47 parameters.pro
+-rw-r--r-- 1 brandenb users 247 Jun 25 16:47 print.in
+-rw-r--r-- 1 brandenb users 439 Jun 25 17:03 run.in
+-rw-r--r-- 1 brandenb users  58 Jun 25 16:47 src/compile-history.local
+-rw-r--r-- 1 brandenb users  57 Jun 25 16:47 src/compile_info.local
+-rw-r--r-- 1 brandenb users 310 Jun 25 16:47 src/cparam.local
+-rw-r--r-- 1 brandenb users 365 Jun 25 16:47 src/Makefile.local
+-rw-r--r-- 1 brandenb users 387 Jun 25 17:03 start.in
+-rw-r--r-- 1 brandenb users  17 Jun 25 16:47 video.in
+-rw-r--r-- 1 brandenb users  10 Jun 25 16:47 xyaver.in
+-rw-r--r-- 1 brandenb users  18 Jun 25 16:47 zaver.in

@@ -1,0 +1,14 @@
+-rw-r--r-- 1 brandenb brandenb 823 Jul  3  2016 parameters.pro
+-rw-r--r-- 1 brandenb brandenb 178 Jul  2  2016 postproc2.pro
+-rw-r--r-- 1 brandenb brandenb 189 Jul  2  2016 postproc_one.pro
+-rw-r--r-- 1 brandenb brandenb 144 Jul  3  2016 postproc.pro
+-rw-r--r-- 1 brandenb brandenb 247 Jul  1  2016 print.in
+-rw-r--r-- 1 brandenb brandenb 396 Jul  2  2016 run.in
+-rw-r--r-- 1 brandenb brandenb  58 Jul  1  2016 src/compile-history.local
+-rw-r--r-- 1 brandenb brandenb  57 Jul  1  2016 src/compile_info.local
+-rw-r--r-- 1 brandenb brandenb 310 Jul  1  2016 src/cparam.local
+-rw-r--r-- 1 brandenb brandenb 365 Jul  1  2016 src/Makefile.local
+-rw-r--r-- 1 brandenb brandenb 359 Jul  1  2016 start.in
+-rw-r--r-- 1 brandenb brandenb  17 Jul  1  2016 video.in
+-rw-r--r-- 1 brandenb brandenb  10 Jul  1  2016 xyaver.in
+-rw-r--r-- 1 brandenb brandenb  18 Jul  1  2016 zaver.in

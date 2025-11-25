@@ -1,0 +1,21 @@
+!
+!  Run parameters for shear turbulence
+!
+&run_pars
+  cvsid="5c1d3327f"
+  nt=1100, it1=50, isave=1000, itorder=3, ialive=1
+  dsnap=5., dvid=5., dspec=.5, ou_spec=T, ab_spec=T, lr_spec=T, oo_spec=T
+/
+&eos_run_pars
+/
+&hydro_run_pars
+  lupw_uu=T
+/
+&density_run_pars
+  lupw_lnrho=T
+/
+&viscosity_run_pars
+  nu=1e-5
+/
+&power_spectrum_run_pars
+/

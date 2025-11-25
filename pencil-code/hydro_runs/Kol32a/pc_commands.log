@@ -1,0 +1,13 @@
+# Log file of Pencil Code commands.
+# This compiles with the same parameters as last time in this directory:
+# pc_build -p
+
+# 2025-11-13 10:41:36
+/home/mgurgeni/pencil-code/bin/pc_build 
+# make '-j' 'FFLAGS_DOUBLE=-fdefault-real-8 -fdefault-double-8' 'CFLAGS_DOUBLE=-DDOUBLE_PRECISION' 'LD_MPI=' 'CFLAGS_FFTW3=' 'FFLAGS_FFTW3=' 'LD_FFTW3=' 'CFLAGS_FFTW2=' 'FFLAGS_FFTW2=' 'LD_FFTW2=' 'FC=mpif90' 'F77=mpif77' 'FFLAGS=-O' 'LDFLAGS_HELPER=-dynamic' 'OMPFFLAGS=-fopenmp' 'OMPLFLAGS=-lgomp' 'PPFLAGS=-cpp' 'FSTD_95=-std=f95' 'FSTD_2003=-std=f2003' 'MODULE_PREFIX=__' 'MODULE_INFIX=_MOD_' 'MODULE_SUFFIX=' 'CC=mpicc' 'CSTD=-std=c99' 'CFLAGS=-DFUNDERSC=1' 'default_to_be'
+
+# 2025-11-13 10:42:39
+mpiexec -n 8 ./src/start.x
+
+# 2025-11-13 10:42:43
+mpiexec -n 8 ./src/run.x

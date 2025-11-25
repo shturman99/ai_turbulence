@@ -1,0 +1,36 @@
+ Pencils requested:
+          15 glnrho          
+          17 uglnrho         
+          25 sglnrho         
+          43 fpres           
+          53 cs2             
+         103 divu            
+         110 uij             
+         111 uu              
+         113 sij             
+         114 sij2            
+         116 ugu             
+         125 del2u           
+         131 graddivu        
+ 
+ Pencils requested for diagnostics:
+          13 rho             
+          14 rho1            
+         103 divu            
+         104 oo              
+         105 o2              
+         106 ou              
+         109 u2              
+         110 uij             
+         111 uu              
+         195 visc_heat       
+ 
+ Pencils requested for 2-D diagnostics:
+          12 lnrho           
+          13 rho             
+          14 rho1            
+ 
+ Pencils requested video output
+         103 divu            
+         104 oo              
+         110 uij             

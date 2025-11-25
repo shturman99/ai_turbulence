@@ -1,0 +1,17 @@
+ iuu=1
+ iux=1
+ iuy=2
+ iuz=3
+ ilnrho=4
+ nname=12
+ nnamev=3
+ nnamex=-1
+ nnamey=-1
+ nnamez=0
+ nnamer=0
+ nnamexy=0
+ nnamexz=-1
+ nnamerz=-1
+ nname_sound=0
+ ncoords_sound=0
+ irho=0

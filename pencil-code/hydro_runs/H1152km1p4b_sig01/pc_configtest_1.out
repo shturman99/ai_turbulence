@@ -1,0 +1,48 @@
+ERROR REPORT:
+=============
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+ >>> TESTING START.IN <<<
+SVN: start.in,v         v. 1.1     (2014/12/19 07:02:47) brandenb
+ >>> TESTING RUN.IN <<<
+SVN: run.in,v           v. 1.2     (2014/12/19 17:43:27) brandenb
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+SVN: -------            v.         (                   ) $Id: pc_configtest_1.out,v 1.1 2016/03/24 14:27:11 brandenb Exp $
+ This is a 3-D run
+ nxgrid, nygrid, nzgrid=        1152        1152        1152
+ Lx, Ly, Lz=   3.9084999999999999E+037   3.9084999999999999E+037   3.9084999999999999E+037
+ Vbox=   5.9707700939124992E+112
+ mvar =            7
+ units_general: unit_velocity=   1.0000000000000000     
+ units_general: unit_density=   1.0000000000000000     
+ units_general: unit_length=   1.0000000000000000     
+ units_general: unit_magnetic=   3.5449077018110318     
+ initialize_eos: unit_temperature=   1.2027220936797545E-008
+ initialize_eos: cp, lnTT0, cs0, pp0=   1.0000000000000000        0.0000000000000000        1.0000000000000000        1.0000000000000000     
+ (x,y,z)(point)=   0.0000000000000000        0.0000000000000000        0.0000000000000000     
+ (x,y,z)(point2)=   0.0000000000000000        0.0000000000000000        0.0000000000000000     
+CONFIGTEST: > FAILED <
