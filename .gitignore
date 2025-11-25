@@ -4,3 +4,4 @@ jhtdb/giverny_output/
 jhtdb/turbulence_timesteps/
 pencil-code/runs/*/data/
 pencil-code/runs/*/CVS
+aipoincare/backend/data/
